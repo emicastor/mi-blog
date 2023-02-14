@@ -1,0 +1,28 @@
+.img {
+  max-inline-size: 100%;
+  block-size: auto;
+  aspect-ratio: 2/1;
+  object-fit: cover;
+  object-position: center center;
+}
+
+.theme-nav {
+  background-color: var(--bs-emphasis-color);
+  color: var(--bs-body-bg);
+}
+
+.theme-jumbotron {
+  background-color: var(--bs-light-bg-subtle);
+}
+
+.theme-card-text {
+  color: var(--bs-emphasis-color);
+}
+
+.theme-card-footer {
+  background-color: var(--bs-body-bg);
+}
+
+.dev-web-font {
+  font-size: 13px !important;
+}
